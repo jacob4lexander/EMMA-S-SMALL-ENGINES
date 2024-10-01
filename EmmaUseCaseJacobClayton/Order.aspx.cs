@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace EmmaUseCaseJacobClayton
+{
+    public partial class Order : Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!User.Identity.IsAuthenticated)
+                Response.Redirect("~/Login.aspx");
+        }
+
+        protected void ObjectDataSource1_Selecting(object sender, ObjectDataSourceSelectingEventArgs e)
+        {
+
+        }
+
+        protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.FormView3.PageIndex = this.DropDownList1.SelectedIndex;
+        }
+    }
+}

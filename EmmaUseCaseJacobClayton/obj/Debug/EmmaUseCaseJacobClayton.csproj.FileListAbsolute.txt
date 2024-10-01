@@ -1,0 +1,190 @@
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseJacobClayton.dll.config
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseJacobClayton.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseJacobClayton.pdb
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csc.exe
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csc.exe.config
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csc.rsp
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csi.exe
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csi.exe.config
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csi.rsp
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Console.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Globalization.Calendars.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Net.Http.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Net.Sockets.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\vbc.exe
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\vbc.exe.config
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\vbc.rsp
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Antlr3.Runtime.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\AspNet.ScriptManager.jQuery.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.ScriptManager.WebForms.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Newtonsoft.Json.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\System.Web.Optimization.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\WebGrease.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\System.Web.Optimization.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Newtonsoft.Json.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.csproj.AssemblyReference.cache
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.csproj.CoreCompileInputs.cache
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.csproj.CopyComplete
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.pdb
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseLibrary.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Owin.dll
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PROJECTS\RAD GENERAL\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseJacobClayton.dll.config
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseJacobClayton.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseJacobClayton.pdb
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csc.exe
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csc.exe.config
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csc.rsp
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csi.exe
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csi.exe.config
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\csi.rsp
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.AppContext.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Collections.Immutable.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Console.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Globalization.Calendars.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.Compression.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.FileSystem.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Net.Http.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Net.Sockets.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.ValueTuple.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.XPath.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\vbc.exe
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\vbc.exe.config
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\vbc.rsp
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\VBCSCompiler.exe
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\roslyn\VBCSCompiler.exe.config
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Antlr3.Runtime.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\AspNet.ScriptManager.jQuery.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EmmaUseCaseLibrary.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.SqlServer.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Core.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.Cookies.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.OAuth.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.ScriptManager.WebForms.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Newtonsoft.Json.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Owin.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\System.Web.Optimization.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\WebGrease.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\EntityFramework.SqlServer.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Core.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.Cookies.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\System.Web.Optimization.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Newtonsoft.Json.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Antlr3.Runtime.pdb
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.csproj.AssemblyReference.cache
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.csproj.CoreCompileInputs.cache
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.csproj.CopyComplete
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.dll
+E:\PROJECTS\RAD\EMMA'S SMALL ENGINES\EmmaUseCaseJacobClayton\obj\Debug\EmmaUseCaseJacobClayton.pdb
